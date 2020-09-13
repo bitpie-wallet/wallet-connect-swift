@@ -75,6 +75,3 @@ JS/staging
 # codecov
 *.coverage.txt
 *.zip
-
-# fastlane
-test_output/
